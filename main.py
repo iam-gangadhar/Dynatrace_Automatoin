@@ -4,8 +4,8 @@ import requests
 # ==============================
 # CONFIGURATION
 # ==============================
-DYNATRACE_URL = "https://abc123.live.dynatrace.com"  # replace with your Dynatrace tenant
-API_TOKEN = "dt0c01.XXXXXX"  # replace with your Dynatrace API token
+DYNATRACE_URL = "https://jjd00414.apps.dynatrace.com/"  # replace with your Dynatrace tenant
+API_TOKEN = "dt0c01.7G5NB4FS6RXZA23L2O3EM4KW.O4V7UZML2WJFITHAYFGCD7HUR5FVSU5ZY4J3TQDDJMH7AIAY4GDKZCGKF6NZ7WUS"  # replace with your Dynatrace API token
 CSV_FILE = "queries.csv"  # your input CSV with index_name, deployment_name
 OUTPUT_FILE = "comparison_results.csv"
 
