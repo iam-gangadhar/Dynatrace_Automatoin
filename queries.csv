@@ -1,5 +1,6 @@
-index_name,deployment_name
+cluster_name,pod_name
 cluster-1,pod-frontend
 cluster-2,pod-backend
 cluster-3,pod-database
 cluster-x,pod-unknown
+
