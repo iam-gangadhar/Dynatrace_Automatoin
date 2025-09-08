@@ -57,4 +57,5 @@ print(dyn_df.head())
 # STEP 4: Compare with CSV
 # ==============================
 df["cluster_exists"] = df["cluster_name"].isin(dyn_df["cluster_name"])
-df["pod_exists"] = df["pod_name"].isin(dyn_df["pod_nam_]()]()_]()
+df["pod_exists"] = df["pod_name"].isin(dyn_df["pod_name"])
+
